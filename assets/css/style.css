@@ -81,7 +81,6 @@ a:hover {
 
 .testPic {
   object-fit: cover;
-  border-radius: 50%;
   background-position: center center;
 
 }
